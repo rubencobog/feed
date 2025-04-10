@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"> 
 <title>Noticias de Videojuegos</title>
-<link href=""/>
+<link href="https://rubencobog.github.io/feed/feed.xml"/>
 <updated>2025-04-10T12:00:00Z</updated>
+<id>https://rubencobog.github.io/feed/</id>
 <author> <name>Ruben Cobo</name> </author>
 <entry>
 	<title>El lanzamiento de GTA6 y Switch 2, las claves del mercado en 2025</title> 
 	<link href="https://www.3djuegos.com/juegos/grand-theft-auto-vi/noticias/gta-6-nintendo-switch-clave-para-futuro-videojuegos-dos-lanzamientos-provocaran-impulso-millonario-industria"/> 
+	<id>tag:example.com,2025-03-19:/noticia-gta6-switch2</id>
 	<updated>2025-03-19T12:00:00Z</updated> 
 	<summary>Analisis de las consecuencias y maneras en las que los lanzamientos mas importantes moldearan la industria.</summary> 
 </entry> 
 <entry> 
 	<title>Continuan los problemas con Diablo IV</title> 
 	<link href="https://www.3djuegos.com/juegos/diablo-4/noticias/no-se-donde-va-diablo-4-algo-no-va-bien-rpg-antiguo-presidente-blizzard-critico-sus-actualizaciones"/> 
+	<id>tag:example.com,2025-03-18:/diablo-iv-problemas</id>
 	<updated>2025-03-18T10:30:00Z</updated> 
 	<summary>Tras presentar la hoja de ruta para 2025, los fans se sienten decepcionados con el futuro de la última entrega de la saga</summary> 
 </entry> 
